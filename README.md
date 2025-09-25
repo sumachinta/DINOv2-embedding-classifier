@@ -7,7 +7,7 @@ This repository demonstrates how to extract embeddings from a pretrained [DINOv2
 ## ⚙️ Environment Setup
 
 ### 1. Install Conda (if you don’t have it)
-We recommend [Miniforge](https://github.com/conda-forge/miniforge) (lightweight Conda installer).  
+Recommend [Miniforge](https://github.com/conda-forge/miniforge) (lightweight Conda installer).  
 Download and install Miniforge, then restart your terminal.
 
 ### 2. Create the environment
