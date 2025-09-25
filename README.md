@@ -1,6 +1,6 @@
 # 🦁 DINOv2 Embedding Classifier
 
-This repository demonstrates how to extract embeddings from a pretrained [DINOv2](https://arxiv.org/abs/2304.07193) model and apply dimensionality reduction (PCA/UMAP) and classification (e.g., Cat vs Dog from CIFAR-10).
+This repository demonstrates how to extract embeddings from a pretrained [DINOv2](https://arxiv.org/abs/2304.07193) model and use it for classification (e.g., Cat vs Dog from CIFAR-10). We also visualize these embeddings using PCA and UMAP
 
 ---
 
