@@ -1,0 +1,24 @@
+name: dino
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - umap-learn
+  - jupyter
+  - ipykernel
+  # optional non-Python deps can be listed here, e.g.:
+  # - ffmpeg
+  # - libpng
+  - timm 
+  - pip
+  - pip:
+      - torchvision>=0.17  # if you prefer PyPI version

@@ -1,0 +1,18 @@
+# Ignore datasets
+data/
+*.tar.gz
+*.zip
+*.npz
+
+# Ignore installers / binaries
+*.sh
+*.exe
+*.dmg
+*.pkg
+
+# Python cache / venv
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
